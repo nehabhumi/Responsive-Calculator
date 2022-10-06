@@ -1,7 +1,7 @@
 const Screen1 = document.getElementById("ProblemScreen");
 const Screen2 = document.getElementById("SecondScreen");
 const Brand = document.getElementsByClassName("Brand")[0];
-Brand.innerHTML = "Hello mr. manjeet";
+Brand.innerHTML = "Hii Neha";
 
 const CEButton = document.getElementById("CeKey");
 const CButton = document.getElementById("CKey");
